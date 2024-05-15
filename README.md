@@ -28,7 +28,7 @@ npm install @types/express --save-dev
     "strict": true,
     "skipLibCheck": true
   },
-  "include": ["src"]
+   "include": ["src/**/*"]
 }
 ```
 
